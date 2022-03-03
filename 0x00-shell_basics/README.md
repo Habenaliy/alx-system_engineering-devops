@@ -4,3 +4,5 @@ cd ~ to change directory to the root folder
 ls -l to list long format files
 ls -la to list files including hidden files in long format
 ls -na to list files digit only
+mkdir /tmp/my_first_directory
+
