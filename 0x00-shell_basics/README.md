@@ -10,3 +10,4 @@ rm /tmp/my_first_directory/betty
 rm -r /tmp/my_first_directory
 cd - to go back to the previous working directory
 ls -la . .. /boot to list files current workin directry, parent working directory ,and boot
+file /tmp/iamafile to display the filetype of iamafile
