@@ -6,4 +6,5 @@ ls -la to list files including hidden files in long format
 ls -na to list files digit only
 mkdir /tmp/my_first_directory
 mv /tmp/betty /tmp/my_first_directory
+rm /tmp/my_first_directory/betty
 
