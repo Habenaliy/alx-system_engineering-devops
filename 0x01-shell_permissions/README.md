@@ -5,4 +5,4 @@ chown betty hello to change the file hello's owner to betty
 touch hello  to make an empty file named hello
 chmod u+x hello to add axcutable permission to the file hello
 chmod ug+x,o+r hello to add excutable permssions to the owner and group and read to others
-
+chmod ugo + x hello to add excution permission to all(user,group,other)
