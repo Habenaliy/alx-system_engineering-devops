@@ -13,4 +13,4 @@ ls -la . .. /boot to list files current workin directry, parent working director
 file /tmp/iamafile to display the filetype of iamafile
 ln -s bin/ls __ls__ to create a symbolic link in the provided directory
 cp -rua *.html ../ to copy only html files from working directory to the parent directory tha do not exist in the parent directory
-
+mv [[:upper:]]* /tmp/u to move all files which bgins with upper case letter to the specified directory
