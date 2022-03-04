@@ -13,3 +13,4 @@ su chmod -R +111 */ to add all permissions to the subdirectories
 mkdir -m 751 crearin a directory with specified permissions
 chgrp school hello to change the group of the file hello to the group school
 chown vincent :staff * to change ownership to vincent and change group to staff
+chown -h vincent:staff _hello to change the owner and group to acertain file _hello
