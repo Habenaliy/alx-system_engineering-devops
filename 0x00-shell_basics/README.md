@@ -16,3 +16,4 @@ cp -rua *.html ../ to copy only html files from working directory to the parent 
 mv [[:upper:]]* /tmp/u to move all files which bgins with upper case letter to the specified directory
 rm *~ to clean emacs files
 mkdir -p welcome/to/school to creat all the directories at once
+ls -maps to list all files and directories separated by commas
