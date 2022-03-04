@@ -12,3 +12,4 @@ chmod--reference==olleh hello to make the permission of hello as the same as oll
 su chmod -R +111 */ to add all permissions to the subdirectories
 mkdir -m 751 crearin a directory with specified permissions
 chgrp school hello to change the group of the file hello to the group school
+chown vincent :staff * to change ownership to vincent and change group to staff
