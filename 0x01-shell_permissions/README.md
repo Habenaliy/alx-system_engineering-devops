@@ -15,3 +15,4 @@ chgrp school hello to change the group of the file hello to the group school
 chown vincent :staff * to change ownership to vincent and change group to staff
 chown -h vincent:staff _hello to change the owner and group to acertain file _hello
 chown --from=guillaume betty  hello to change the owner of a file called hello to betty if only it's owned by the user guillaume
+telnet towel.blinkenlights.nl  to play starwars IV eoisode terminal
