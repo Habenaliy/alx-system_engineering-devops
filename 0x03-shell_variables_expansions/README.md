@@ -9,3 +9,4 @@
 8-print the result of addition of an evironmental variable
 9-print the result of POWER/DIVIDE
 10-print the result of BREATH**LOVE
+11-convert binary to decimal
