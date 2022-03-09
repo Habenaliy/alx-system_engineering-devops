@@ -3,3 +3,4 @@
 2-adding a directory to a path using $PATH
 3-counting directories in a directory 
 4-listing environmental variables
+5-listing local variables including functions (set)
