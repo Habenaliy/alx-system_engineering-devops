@@ -7,3 +7,4 @@
 6-creating a local variable
 7-creating a global variable (use export)
 8-print the result of addition of an evironmental variable
+9-print the result of POWER/DIVIDE
