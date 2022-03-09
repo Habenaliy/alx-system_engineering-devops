@@ -10,3 +10,4 @@
 9-print the result of POWER/DIVIDE
 10-print the result of BREATH**LOVE
 11-convert binary to decimal
+12-combination of letters
