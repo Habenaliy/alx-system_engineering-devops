@@ -15,3 +15,4 @@
 14-converting decimal to hexadecimal
 15-encoding and decoding using rot13
 16-printing every other line from input 
+17-adding two numbers stored in environmental variable
