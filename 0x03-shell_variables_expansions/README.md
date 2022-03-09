@@ -14,3 +14,4 @@
 13-print numbers with two decimal points
 14-converting decimal to hexadecimal
 15-encoding and decoding using rot13
+16-printing every other line from input 
